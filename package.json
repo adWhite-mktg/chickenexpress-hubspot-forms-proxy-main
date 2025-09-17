@@ -1,0 +1,8 @@
+{
+  "name": "chickenexpress-hubspot-forms-proxy",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "busboy": "^1.6.0"
+  }
+}
